@@ -1,3 +1,7 @@
+"""
+E2: Program to Check Prime Number
+"""
+
 number = int(input("Enter a number: "))
 
 flag = 1
